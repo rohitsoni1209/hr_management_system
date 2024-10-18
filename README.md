@@ -7,8 +7,7 @@ and organize your organization's branches and departments.
 ](https://hrs.ahmaddeghady.online)
 > Note: This is a test app deployed on a limited VPS. Current performance is modest due to poor server, and the data is subject to deletion at any time.
 
-# Video Demo (Arabic)
-https://youtu.be/JE1ihoGc1OQ
+
 
 # Screenshots
 ![Dashboard Light Mode Mode](https://i.imgur.com/bGqyqHi.png)
